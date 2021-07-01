@@ -1,6 +1,8 @@
 # DDOS ATTACK TEAM BADS
 Assalamu alaikum 
+
 I am M4D S0UL 
+
 From Team Bads
 
 # Tools run command
@@ -27,4 +29,4 @@ $ cd Ddos_Attack
 
 $ python2 BADS.py
 
-#TEAM BADS SECURITY RESEARCHERS
+# TEAM BADS SECURITY RESEARCHERS
